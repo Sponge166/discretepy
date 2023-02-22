@@ -1,0 +1,1 @@
+from discretepy.theorem import Theorem
