@@ -1,4 +1,7 @@
 # implementation detail - make sure parenthesis entered for a theorem are valid
+
+# DEPRECATED - THIS MAY BE USELESS
+
 from discretepy.theorem import Theorem
 from queue import Queue
 
