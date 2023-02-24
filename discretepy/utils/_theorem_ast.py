@@ -1,1 +1,1 @@
-from discretepy.theorem import Theorem
+from ..theorem import Theorem

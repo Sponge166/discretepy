@@ -2,7 +2,7 @@
 
 # DEPRECATED - THIS MAY BE USELESS
 
-from discretepy.theorem import Theorem
+from ..theorem import Theorem
 from queue import Queue
 
 # constants
