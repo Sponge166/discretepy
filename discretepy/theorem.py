@@ -24,7 +24,7 @@ class Theorem:
         - or create the object using the base class Theorem
 
     Take for example a Path object from python's pathlib:
-        - creating a Path as `p = Path("C:\Users")`
+        - creating a Path as `p = Path("C:\\Users")`
         - "Path instantiates a concrete path for the platform the code is running on."
         - src: "https://docs.python.org/3/library/pathlib.html"
     """
